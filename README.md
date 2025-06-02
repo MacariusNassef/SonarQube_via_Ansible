@@ -49,7 +49,7 @@ Clean code is essential, and here are some reminders to keep your codebase spark
 📚 For more information about SonarQube, please refer to the official SonarQube documentation.
 
 Author
-Clean Code Advocate: Makarios Nassef 🧼 
+Clean Code Advocate: Macarius Nassef 🧼 
 
-- E-mail: [makarios059@gmail.com](mailto:makarios059@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/makarios-nassef/](https://www.linkedin.com/in/makarios-nassef/)
+- E-mail: [macarius.nassef@gmail.com](mailto:macarius.nassef@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/macarius-nassef/](https://www.linkedin.com/in/macarius-nassef/)
